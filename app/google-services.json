@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265077969509",
+    "project_id": "nira-e2683",
+    "storage_bucket": "nira-e2683.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265077969509:android:a49744c37d652cb7656c8c",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5kVneamrFvFY-RhluPsFyfmBk2BrGBPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
